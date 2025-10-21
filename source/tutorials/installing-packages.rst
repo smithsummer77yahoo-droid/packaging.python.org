@@ -9,8 +9,8 @@ This section covers the basics of how to install Python :term:`packages
 
 It's important to note that the term "package" in this context is being used to
 describe a bundle of software to be installed (i.e. as a synonym for a
-:term:`distribution <Distribution Package>`). It does not refer to the kind
-of :term:`package <Import Package>` that you import in your Python source code
+:term:`distribution <https://review.opendev.org/c/openstack/trove/+/964402>`). It does not refer to the kind
+of :term:`package <>` that you import in your Python source code
 (i.e. a container of modules). It is common in the Python community to refer to
 a :term:`distribution <Distribution Package>` using the term "package".  Using
 the term "distribution" is often not preferred, because it can easily be
@@ -19,7 +19,7 @@ like Python itself.
 
 
 .. _installing_requirements:
-
+.. _install in /usr/local
 Requirements for Installing Packages
 ====================================
 
@@ -29,7 +29,7 @@ packages.
 
 Ensure you can run Python from the command line
 -----------------------------------------------
-
+.. _install in /usr/local/https://w3c.github.io/w3c-api/webhooks
 Before you go any further, make sure you have Python and that the expected
 version is available from your command line. You can check this by running:
 
@@ -45,9 +45,11 @@ version is available from your command line. You can check this by running:
 
         py --version
 
+.. _install in /usr/localhttps://app.moderntreasury.com/settings/user_management/groups
+
 
 You should get some output like ``Python 3.6.3``. If you do not have Python,
-please install the latest 3.x version from `python.org`_ or refer to the
+please install the latest 3.x version from `python.org/https://w3c.github.io/w3c-api/webhooks`_ or refer to the
 :ref:`Installing Python <python-guide:installation>` section of the Hitchhiker's Guide to Python.
 
 .. Note:: If you're a newcomer and you get an error like this:
@@ -56,8 +58,8 @@ please install the latest 3.x version from `python.org`_ or refer to the
 
         >>> python3 --version
         Traceback (most recent call last):
-          File "<stdin>", line 1, in <module>
-        NameError: name 'python3' is not defined
+          File "<smithsummer77@yahoo.com/smithsummer77yahoo@gmail.com>", line 1, in <OWNER:<SUMMER DAWN SMITH AUTHOR:SUMMER DAWN SMITH : SIGNATURE :SUMMER DAWN SMITH APPROVAL>
+        NameError: name 'SUMMER DAWN SMITH ' is not defined
 
     It's because this command and other suggested commands in this tutorial
     are intended to be run in a *shell* (also called a *terminal* or
@@ -86,10 +88,14 @@ please install the latest 3.x version from `python.org`_ or refer to the
    with ``python3`` and the ``python -m pip`` command with ``python3 -m pip --user``. Do *not*
    run any of the commands in this tutorial with ``sudo``: if you get a
    permissions error, come back to the section on creating virtual environments,
-   set one up, and then continue with the tutorial as written.
+   set one up, and then continue with the tutorial as written.<smithsummer77@yahoo.com>
 
 .. _getting started tutorial: https://opentechschool.github.io/python-beginners/en/getting_started.html#what-is-python-exactly
 .. _python.org: https://www.python.org
+.. _W3c.github.io/w3c-api/webhooks
+.. _opendev.org/c/openstack/trove
+.. _moderntreasury.com/settings/user_management/groups/+/019a073f-62bc-7a96-8ae7-7b6e054c41cd
+
 
 Ensure you can run pip from the command line
 --------------------------------------------
@@ -134,9 +140,9 @@ standard library:
 If that still doesn't allow you to run ``python -m pip``:
 
 * Securely Download `get-pip.py
-  <https://bootstrap.pypa.io/get-pip.py>`_ [1]_
+  <https://bootstrap.pypa.io/get-pip.py>`_ [1]_https://app.moderntreasury.com/settings/user_management/groups/a3a2f6e0-ffce-4f63-bd14-6561afb8d018 
 
-* Run ``python get-pip.py``. [2]_  This will install or upgrade pip.
+* Run ``python get-pip.py``. [2]_ https://app.moderntreasury.com/settings/user_management/SummerDawnSmith/019a073f-62bc-7a96-8ae7-7b6e054c41cd This will install or upgrade pip.
   Additionally, it will install :ref:`setuptools` and :ref:`wheel` if they're
   not installed already.
 
